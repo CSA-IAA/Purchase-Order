@@ -1,12 +1,13 @@
-Tkinter Project - Database Interface
+Tkinter Database Interface
+
 Has the following:
--Entry for a User ID (a 9 digit number)
--Entry for a customer name
--Entry for customer (street address, city, state)
--Entry for what all they purchased (this needs to be more than one line, a descriptive box)
--Entry for purchase date
--Entries for item price, tax (8.25 percent), shipping, and then print the total cost
-Writes the data to a file, which is then able to be read (all the user needs to do is enter the user id)
+-Entry for a User ID (a 9 digit number),
+-Entry for a customer name,
+-Entry for customer (street address, city, state),
+-Entry for what all they purchased (this needs to be more than one line, a descriptive box),
+-Entry for purchase date,
+-Entries for item price, tax (8.25 percent), shipping, and then print the total cost,
+Writes the data to a file, which is then able to be read (all the user needs to do is enter the user id),
 
 '''
 This program is free software: you can redistribute it and/or modify
