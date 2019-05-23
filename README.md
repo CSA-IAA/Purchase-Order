@@ -1,4 +1,4 @@
-Final TK Project - Database Interface
+Tkinter Project - Database Interface
 Has the following:
 -Entry for a User ID (a 9 digit number)
 -Entry for a customer name
