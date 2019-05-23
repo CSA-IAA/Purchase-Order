@@ -1,3 +1,13 @@
+Final TK Projece - Database Interface
+Has the following:
+-Entry for a User ID (a 9 digit number)
+-Entry for a customer name
+-Entry for customer (street address, city, state)
+-Entry for what all they purchased (this needs to be more than one line, a descriptive box)
+-Entry for purchase date
+-Entries for item price, tax (8.25 percent), shipping, and then print the total cost
+Writes the data to a file, which is then able to be read (all the user needs to do is enter the user id)
+
 '''
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,7 +22,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 #####
-Ismail A Ahmed
-Spaceship Game(GUI)
-Version .1
 '''
